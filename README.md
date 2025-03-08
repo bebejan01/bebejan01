@@ -29,9 +29,9 @@
    <h3 align="center">Connect with me:</h3>
 </p>
 <p align="center">
-<a href="https://twitter.com/hilitomilito1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilitomilito1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hilâldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
-<a href="https://instagram.com/hilaldedek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
+<a href="https://x.com/Mustafa39420908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilitomilito1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mustafa-kemal-demirel-0010992a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mustafa_demirel47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
 </p>
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8;%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC" alt="Typing SVG" /></a>
@@ -46,8 +46,6 @@
 
 <br/>
 
-![Mario_Bros_1920_x_1080](https://github.com/hilaldedek/hilaldedek/assets/95539281/ad3b6923-59ac-4485-b3c6-5da1233d2932)
+![Matrix](https://github.com/bebejan01/assets/blob/main/3HeZ.gif)
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=hilaldedek&icon=3&color=6">
-</p>
+
