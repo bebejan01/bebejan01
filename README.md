@@ -21,14 +21,6 @@
 
 ---
 
-
-<p align="center">
-<a href="https://open.spotify.com/track/7s1zXPRTen4WOTTzbR55EH" target="blank">  
-	<img align="center" src="https://github.com/hilaldedek/hilaldedek/assets/95539281/c6e1db4a-5b0c-40ea-b953-481b05155b70"> 
-</a> 
-</p>
-
- ---
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8;%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC" alt="Typing SVG" /></a>
 </p>
