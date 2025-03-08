@@ -41,7 +41,7 @@
 
 
 <br/>
-<p align="center">
+
 ![Matrix](https://github.com/bebejan01/assets/blob/main/3HeZ.gif)
-</p>
+
 
