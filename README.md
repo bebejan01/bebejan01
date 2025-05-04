@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bebejan01&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
+<img src="https://github-readme-stats.vercel.app/api?username=bebejan01&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false">
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bebejan01&theme=radical&hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bebejan01&theme=blue-green&hide_border=false">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebejan01&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebejan01&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
 
 ---
