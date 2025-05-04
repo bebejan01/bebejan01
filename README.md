@@ -17,6 +17,9 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebejan01&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+
+ [![Trophy](https://github-profile-trophy.vercel.app/?username=bebejan01&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 </p>
 
 ---
