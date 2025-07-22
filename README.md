@@ -11,7 +11,6 @@
 
 ---
 
-# 💫 About Me:
 ## 👨‍💻 Hakkımda
 Merhaba! Ben Mustafa Kemal Demirel. Programlama dillerinde aktif olarak çalışıyorum. Yapay zeka, veri bilimi ve gömülü sistemlere özel ilgi duyuyorum.
 
@@ -41,3 +40,32 @@ Merhaba! Ben Mustafa Kemal Demirel. Programlama dillerinde aktif olarak çalış
 
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9
+
+
+ ---
+
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8;%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
+   <h3 align="center">Connect with me:</h3>
+</p>
+<p align="center">
+<a href="https://x.com/Mustafa39420908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilitomilito1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mustafa-kemal-demirel-0010992a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal dedek" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mustafa_demirel47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilaldedek" height="30" width="40" /></a>
+</p>
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB++%F0%9F%8C%BB;%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8++%F0%9F%8C%B8++%F0%9F%8C%B8+++%F0%9F%8C%B8;%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC++%F0%9F%8C%BC" alt="Typing SVG" /></a>
+</p>
+
+--- 
+
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/bebejan01/assets/blob/main/3HeZ.gif" width="800" height="400">
+</p>
+
